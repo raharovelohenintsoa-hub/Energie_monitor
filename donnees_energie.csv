@@ -1,0 +1,6 @@
+appareil,puissance_W,duree_h,energie_Wh
+Refrigerateur,150,8,1200
+Television,100,4,400
+Ordinateur,200,6,1200
+Climatiseur,1200,3,3600
+Lampe,20,5,100
