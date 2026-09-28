@@ -34,6 +34,6 @@ for nom, donnees in appareils.items():
 
     print(f"{nom} : {energie} Wh")
 
-print("\n----------------------------------------"
+print("\n----------------------------------------")
 print(f"Consommation totale : {energie_totale} Wh")
 print(f"Consommation totale : {energie_totale / 1000} kWh")
